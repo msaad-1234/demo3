@@ -11,7 +11,7 @@ public class TestThrow {
     //main method  
     public static void main(String[] args) {  
             TestThrow obj = new TestThrow();  
-            obj.checkNum(-3);  
+            obj.checkNum(9);  
             System.out.println("Rest of the code..");  
     }  
 } 
